@@ -11,7 +11,6 @@
 - ⚡ Fun fact **I love making music!**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/BWWG.gif"</img>
 <p align="left">
 <a href="https://instagram.com/manya._.premjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manya._.premjith" height="30" width="40" /></a>
 </p>

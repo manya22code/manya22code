@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manya</h1>
 <h3 align="center">A passionate CS student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"</img>
 
 - 👯 I’m looking to collaborate on various projects!
 
@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I love making music!**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=gIsZ5TQY&id=A7F85B474C7413B93B7C2FFFDD9A67D1801DA2D0&thid=OIP.gIsZ5TQYtzY2Z64NUE84zQHaHa&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fJSYdsDmI3ZRZfbOOjU%2fgiphy.gif&exph=480&expw=480&q=connect+with+me+animation+cartoon+gif&simid=608015735891196221&FORM=IRPRST&ck=7DB1116B1DD3E405C8FA3150F303574F&selectedIndex=0&itb=0">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/BWWG.gif"</img>
 <p align="left">
 <a href="https://instagram.com/manya._.premjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manya._.premjith" height="30" width="40" /></a>
 </p>
